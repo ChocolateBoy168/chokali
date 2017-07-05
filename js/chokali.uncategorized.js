@@ -1,7 +1,7 @@
 /**
  * Created by chocolate on 2015/10/22.
  */
-chokali.uncategorize = (function (andrew) {
+chokali.uncategorize = (function (chokali) {
 
 	var me = {
 		showAllType:function(){
